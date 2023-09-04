@@ -2,7 +2,11 @@
   "image": "docker.io/python:latest",
   "customizations": {
     "vscode": {
-      "settings": {},
+      "settings": {
+        "githubPullRequests.ignoredPullRequestBranches": [
+          "main"
+      ]
+      },
       "extensions": [
         "ms-python.python"
       ]
