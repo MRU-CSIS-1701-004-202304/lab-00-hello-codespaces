@@ -1,3 +1,3 @@
-## Python Burner Box
+## Lab 0: Hello, Codespaces
 
-This is a bare-bones Codespace template for use with COMP1701.
+This is a bare-bones Codespace template for Python.
